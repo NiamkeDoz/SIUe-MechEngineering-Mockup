@@ -50,6 +50,7 @@
     }
 
     #message{
+        display: block;
 
         font-size: 1.25em;
     }
